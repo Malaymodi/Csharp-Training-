@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\bin\Debug\ConsoleApp1 Csharp Training.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\bin\Debug\ConsoleApp1 Csharp Training.exe
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\bin\Debug\ConsoleApp1 Csharp Training.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\obj\Debug\ConsoleApp1 Csharp Training.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\obj\Debug\ConsoleApp1 Csharp Training.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\obj\Debug\ConsoleApp1 Csharp Training.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\obj\Debug\ConsoleApp1 Csharp Training.exe
+D:\Malay C#\gitrepo\Csharp-Training-\ConsoleApp1 Csharp Training\obj\Debug\ConsoleApp1 Csharp Training.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67A0C6A6-24BA-42E2-879A-812AC5F939F2}</ProjectGuid>
+    <ProjectGuid>{F7F0F6B2-1A70-4E0E-A72A-02320DAD07DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp36_String_Palindrome</RootNamespace>
-    <AssemblyName>ConsoleApp36 String Palindrome</AssemblyName>
+    <RootNamespace>ConsoleApp1_Csharp_Training</RootNamespace>
+    <AssemblyName>ConsoleApp1 Csharp Training</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Copy_constructor.cs" />
+    <Compile Include="Destructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="statickeyword.cs" />
+    <Compile Include="thiskeyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
