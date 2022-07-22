@@ -28,14 +28,23 @@ namespace ConsoleApp1_Csharp_Training
 
             //static keyword file
             //object 1
-            statickeyword sk1 = new statickeyword();
-            sk1.studentname = "Jaydeep";
-            Console.WriteLine("Name of student is {0} and name of school is {1}", sk1.studentname, statickeyword.schoolname);
+             statickeyword sk1 = new statickeyword();
+             sk1.studentname = "Jaydeep";
+             Console.WriteLine("Name of student is {0} and name of school is {1}", sk1.studentname, statickeyword.schoolname);
+             
 
             //object 2
-            statickeyword sk2 = new statickeyword();
-            sk2.studentname = "Yash";
-            Console.WriteLine("Name of student is {0} and name of school is {1}", sk2.studentname, statickeyword.schoolname);
+             statickeyword sk2 = new statickeyword();
+             sk2.studentname = "Yash";
+             Console.WriteLine("Name of student is {0} and name of school is {1}", sk2.studentname, statickeyword.schoolname);
+            
+
+
+           /* public int a;
+            Callbyvalue cv = new Callbyvalue();
+
+                cv.a = 25;
+            cv.display(a);*/
 
 
 

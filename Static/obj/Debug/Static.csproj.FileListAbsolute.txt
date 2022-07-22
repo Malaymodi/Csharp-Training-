@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\Static\bin\Debug\Static.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\Static\bin\Debug\Static.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Static\bin\Debug\Static.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Static\obj\Debug\Static.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Static\obj\Debug\Static.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Static\obj\Debug\Static.pdb

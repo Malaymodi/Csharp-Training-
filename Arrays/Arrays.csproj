@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F7F0F6B2-1A70-4E0E-A72A-02320DAD07DB}</ProjectGuid>
+    <ProjectGuid>{5F946B82-EF0A-4E22-953A-4C54863B369F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1_Csharp_Training</RootNamespace>
-    <AssemblyName>ConsoleApp1 Csharp Training</AssemblyName>
+    <RootNamespace>Arrays</RootNamespace>
+    <AssemblyName>Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Callbyvalue.cs" />
-    <Compile Include="Copy_constructor.cs" />
-    <Compile Include="Destructor.cs" />
+    <Compile Include="Array1.cs" />
+    <Compile Include="Array2.cs" />
+    <Compile Include="Array3.cs" />
+    <Compile Include="Array4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="statickeyword.cs" />
-    <Compile Include="thiskeyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

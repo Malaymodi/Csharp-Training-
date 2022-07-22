@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\hello\bin\Debug\hello.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\hello\bin\Debug\hello.exe
+D:\Malay C#\gitrepo\Csharp-Training-\hello\bin\Debug\hello.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\hello\obj\Debug\hello.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\hello\obj\Debug\hello.exe
+D:\Malay C#\gitrepo\Csharp-Training-\hello\obj\Debug\hello.pdb

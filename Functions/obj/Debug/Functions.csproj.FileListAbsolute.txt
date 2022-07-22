@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\bin\Debug\Functions.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\bin\Debug\Functions.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\bin\Debug\Functions.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\obj\Debug\Functions.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\obj\Debug\Functions.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Functions\obj\Debug\Functions.pdb
