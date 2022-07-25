@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Arrays\Arrays.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "..\Static\Static.csproj", "{7699869D-115B-43FB-BDE2-62450A8006B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollections", "..\GenericCollections\GenericCollections.csproj", "{70E3F026-E434-4536-A42E-31E0817A77CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandling", "..\FileHandling\FileHandling.csproj", "{7FD46923-F0E9-4B13-9F77-32F5A319171E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7699869D-115B-43FB-BDE2-62450A8006B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7699869D-115B-43FB-BDE2-62450A8006B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7699869D-115B-43FB-BDE2-62450A8006B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E3F026-E434-4536-A42E-31E0817A77CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E3F026-E434-4536-A42E-31E0817A77CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E3F026-E434-4536-A42E-31E0817A77CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E3F026-E434-4536-A42E-31E0817A77CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD46923-F0E9-4B13-9F77-32F5A319171E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD46923-F0E9-4B13-9F77-32F5A319171E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD46923-F0E9-4B13-9F77-32F5A319171E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD46923-F0E9-4B13-9F77-32F5A319171E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

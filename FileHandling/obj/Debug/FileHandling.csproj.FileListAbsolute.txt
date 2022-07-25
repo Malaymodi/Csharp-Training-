@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\bin\Debug\FileHandling.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\bin\Debug\FileHandling.exe
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\bin\Debug\FileHandling.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\obj\Debug\FileHandling.exe
+D:\Malay C#\gitrepo\Csharp-Training-\FileHandling\obj\Debug\FileHandling.pdb
