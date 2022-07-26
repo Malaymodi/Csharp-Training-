@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\bin\Debug\Generics.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\bin\Debug\Generics.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\bin\Debug\Generics.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\obj\Debug\Generics.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Generics\obj\Debug\Generics.pdb

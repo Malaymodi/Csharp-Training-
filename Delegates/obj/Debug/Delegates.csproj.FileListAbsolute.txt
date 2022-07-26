@@ -1,0 +1,8 @@
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\bin\Debug\Delegates.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\bin\Debug\Delegates.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\bin\Debug\Delegates.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\obj\Debug\Delegates.exe
+D:\Malay C#\gitrepo\Csharp-Training-\Delegates\obj\Debug\Delegates.pdb
