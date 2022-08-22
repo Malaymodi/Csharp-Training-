@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32616.157
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1 Csharp Training", "ConsoleApp1 Csharp Training.csproj", "{F7F0F6B2-1A70-4E0E-A72A-02320DAD07DB}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "..\Generics\Generics.csproj", "{AAF0D9A2-B646-4DCA-9839-2D42B3DA0C4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\Delegates.csproj", "{C2ADFF7E-25FE-4EAB-9587-F1AC46530A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "..\LinqDemo\LinqDemo.csproj", "{83968A18-6937-4431-929E-1D48DA7D073F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C2ADFF7E-25FE-4EAB-9587-F1AC46530A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2ADFF7E-25FE-4EAB-9587-F1AC46530A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2ADFF7E-25FE-4EAB-9587-F1AC46530A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83968A18-6937-4431-929E-1D48DA7D073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83968A18-6937-4431-929E-1D48DA7D073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83968A18-6937-4431-929E-1D48DA7D073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83968A18-6937-4431-929E-1D48DA7D073F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

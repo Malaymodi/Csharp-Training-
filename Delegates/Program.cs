@@ -38,9 +38,9 @@ namespace Delegates
             
             ShowNumber sn2 = new ShowNumber(Mulnum);
             sn1(45);
-            sn2(35);
-            Console.WriteLine("Value with first delegate having add method "+getNum());
            
+            Console.WriteLine("Value with first delegate having add method "+getNum());
+            sn2(35);
 
             Console.WriteLine("Value with second delegate having mul method "+getNum());
             Console.ReadLine();

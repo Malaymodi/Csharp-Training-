@@ -2,7 +2,6 @@ D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\bin\Debug\Multithreading.exe
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\bin\Debug\Multithreading.exe
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\bin\Debug\Multithreading.pdb
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\obj\Debug\Multithreading.csproj.AssemblyReference.cache
-D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\obj\Debug\Multithreading.csproj.SuggestedBindingRedirects.cache
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\obj\Debug\Multithreading.exe
 D:\Malay C#\gitrepo\Csharp-Training-\Multithreading\obj\Debug\Multithreading.pdb

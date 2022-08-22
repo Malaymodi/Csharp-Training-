@@ -3,19 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace Multithreading
 {
     class ThreadExample2
     {
-        public void method1()
+        public void  method1()
         {
             for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine("i of method 1 {0}",i);
                 if(i==4)
                 {
-                    Thread.Sleep(300);
+                    Thread.Sleep(3000);
                 }
             }
 

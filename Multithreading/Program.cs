@@ -24,9 +24,9 @@ namespace Multithreading
             */
 
             //for threadexample 2
-            /*ThreadExample2 te2 = new ThreadExample2();
+            ThreadExample2 te2 = new ThreadExample2();
             te2.callThreadExample2();
-            */
+            
 
             //for threadexample3
             /*ThreadExample3 te3 = new ThreadExample3();

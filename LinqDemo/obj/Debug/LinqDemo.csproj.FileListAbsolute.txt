@@ -1,0 +1,7 @@
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\bin\Debug\LinqDemo.exe.config
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\bin\Debug\LinqDemo.exe
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\bin\Debug\LinqDemo.pdb
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\obj\Debug\LinqDemo.exe
+D:\Malay C#\gitrepo\Csharp-Training-\LinqDemo\obj\Debug\LinqDemo.pdb
